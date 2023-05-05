@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://wuhen9.github.io/help/static/css/main.40e1471f.css",
+    "main.js": "https://wuhen9.github.io/help/static/js/main.4c990a43.js",
+    "static/js/646.8cdfb322.chunk.js": "https://wuhen9.github.io/help/static/js/646.8cdfb322.chunk.js",
+    "static/js/365.453639f6.chunk.js": "https://wuhen9.github.io/help/static/js/365.453639f6.chunk.js",
+    "static/js/578.b238cec8.chunk.js": "https://wuhen9.github.io/help/static/js/578.b238cec8.chunk.js",
+    "static/js/784.c0542bc1.chunk.js": "https://wuhen9.github.io/help/static/js/784.c0542bc1.chunk.js",
+    "static/js/851.696d6007.chunk.js": "https://wuhen9.github.io/help/static/js/851.696d6007.chunk.js",
+    "static/js/787.fc0ad487.chunk.js": "https://wuhen9.github.io/help/static/js/787.fc0ad487.chunk.js",
+    "static/media/Exo2-ExtraBold.svg": "https://wuhen9.github.io/help/static/media/Exo2-ExtraBold.c286db53838a9fdf0563.svg",
+    "static/media/background1080.png": "https://wuhen9.github.io/help/static/media/background1080.3ef121c18208d49258e8.png",
+    "static/media/Exo2-ExtraBold.eot": "https://wuhen9.github.io/help/static/media/Exo2-ExtraBold.bb6f0b405638853254d5.eot",
+    "static/media/Exo2-ExtraBold.ttf": "https://wuhen9.github.io/help/static/media/Exo2-ExtraBold.89eb9838528a7956b294.ttf",
+    "static/media/Exo2-ExtraBold.woff": "https://wuhen9.github.io/help/static/media/Exo2-ExtraBold.2dc93bef1b64a26bf23c.woff",
+    "static/media/Exo2-ExtraBold.woff2": "https://wuhen9.github.io/help/static/media/Exo2-ExtraBold.4268c2e1fa187838fe40.woff2",
+    "index.html": "https://wuhen9.github.io/help/index.html",
+    "main.40e1471f.css.map": "https://wuhen9.github.io/help/static/css/main.40e1471f.css.map",
+    "main.4c990a43.js.map": "https://wuhen9.github.io/help/static/js/main.4c990a43.js.map",
+    "787.fc0ad487.chunk.js.map": "https://wuhen9.github.io/help/static/js/787.fc0ad487.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e1471f.css",
+    "static/js/main.4c990a43.js"
+  ]
+}
